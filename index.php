@@ -2,6 +2,8 @@
 
     namespace MikePal;
 
+    require("vendor/autoload.php");
+
     $curl = new Curl([
         "PARAM_1" => 1,
         "PARAM2" => [
