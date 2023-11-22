@@ -11,5 +11,8 @@
             "type": "vcs",
             "url": "https://github.com/mikepalikhov/curl-wrap"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": { "MikePal\\": "src/" }
+    }
 }
