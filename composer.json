@@ -4,12 +4,17 @@
     "type": "project",
     "minimum-stability": "dev",
     "require": {
-        "mikepalikhov/curl-wrap": "*@dev"
+        "mikepalikhov/curl-wrap": "*@dev",
+        "mikepalikhov/array-arguments": "*@dev"
     },
     "repositories": [
         {
             "type": "vcs",
             "url": "https://github.com/mikepalikhov/curl-wrap"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/mikepalikhov/array-arguments"
         }
     ],
     "autoload": {
