@@ -4,7 +4,7 @@
     "type": "project",
     "minimum-stability": "dev",
     "require": {
-        "mikepalikhov/curl-wrap": "1.0.*"
+        "mikepalikhov/curl-wrap": "1.0.*@dev"
     },
     "repositories": [
         {
