@@ -1,0 +1,16 @@
+{
+    "name": "mikepalikhov/nasdaq-analyzer",
+    "version": "1.0.0",
+    "require": {
+        "mikepalikhov/curl-wrap": "1.0.*"
+    },
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/mikepalikhov/nasdaq-analyzer.git"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "MikePal\\": "src/" }
+    }
+}
