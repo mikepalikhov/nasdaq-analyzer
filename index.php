@@ -2,4 +2,4 @@
 
     namespace MikePal;
 
-    $curl - new Curl();
+    $curl = new Curl();
