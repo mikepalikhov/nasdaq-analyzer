@@ -16,8 +16,5 @@
             "type": "vcs",
             "url": "https://github.com/mikepalikhov/array-arguments"
         }
-    ],
-    "autoload": {
-        "psr-4": { "MikePal\\": "src/" }
-    }
+    ]
 }
