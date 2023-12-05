@@ -11,10 +11,6 @@
         {
             "type": "vcs",
             "url": "https://github.com/mikepalikhov/curl-wrap"
-        },
-        {
-            "type": "vcs",
-            "url": "https://github.com/mikepalikhov/array-arguments"
         }
     ],
     "autoload": {
