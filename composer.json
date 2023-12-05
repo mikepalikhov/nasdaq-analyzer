@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "type": "project",
     "minimum-stability": "dev",
-    "require": {
+    "require-dev": {
         "mikepalikhov/curl-wrap": "*@dev"
     },
     "repositories": [
